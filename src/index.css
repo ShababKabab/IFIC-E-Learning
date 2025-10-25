@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{ --brand-red:#C8102E; --accent-blue:#0078D7; }
+
+body{
+  font-family:"Poppins", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  color:#111827;
+}
