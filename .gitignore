@@ -1,0 +1,13 @@
+# Node / Vite
+node_modules/
+dist/
+
+# Vercel
+.vercel/
+
+# Env & logs
+.env
+.env.*
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
